@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free because 2.2 happened",
     "records": [
+        {         
+            "user": "RUSTDEFAULT",
+            "link": "https://youtu.be/1CD9WMEcX9Q",
+            "percent": 100,
+            "hz": 170
+        }
     ]
 }
