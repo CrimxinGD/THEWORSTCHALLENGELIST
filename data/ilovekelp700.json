@@ -25,6 +25,13 @@
             "link": "",
             "percent": 100,
             "hz": 240
+        },
+        {            
+            "user": "RUSTDEFAULT",
+            "link": "",
+            "percent": 100,
+            "hz": 170
         }
+    ]
     ]
 }
